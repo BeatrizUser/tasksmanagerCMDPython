@@ -1,6 +1,14 @@
-# Lista de Tarefas
+# TaskManager - Lista de Tarefas
 
-Este é um simples aplicativo de lista de tarefas baseado em texto, desenvolvido em Python com interface de linha de comando usando a biblioteca curses.
+O programa "Lista de Tarefas" é uma aplicação de linha de comando em Python que permite gerenciar suas tarefas diárias. Com ele, você pode adicionar, remover e marcar tarefas como concluídas.
+
+O programa utiliza a biblioteca curses para criar uma interface interativa, permitindo a navegação pelo menu usando as setas do teclado e a tecla Enter. As tarefas são salvas em um arquivo de texto chamado "tasks.txt" para armazenamento persistente.
+
+Para usar o programa, basta executá-lo no Python 3.x. As tarefas são exibidas em uma lista numerada, permitindo que você selecione tarefas para remoção ou marcação como concluídas.
+
+Contribuições são bem-vindas e o código-fonte está disponível em um repositório no GitHub. O programa oferece uma maneira simples e eficiente de gerenciar suas tarefas diárias diretamente na linha de comando.
+
+Experimente o programa TaskManager para organizar suas tarefas de forma rápida e prática!
 
 ## Funcionalidades
 
