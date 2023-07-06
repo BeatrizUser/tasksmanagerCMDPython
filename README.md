@@ -19,17 +19,17 @@ Experimente o programa TaskManager para organizar suas tarefas de forma rápida 
 
 ## Requisitos
 
-- Python 3.x
+- Python 3
 
 ## Como executar
 
 1. Clone este repositório em sua máquina local:
 ```
-git clone https://github.com/seu_usuario/nome-do-repositorio.git
+git clone https://github.com/BeatrizUser/tasksmanagerCMDPython.git
 ```
 2. Navegue até o diretório do projeto:
 ```
-cd nome-do-repositorio
+cd tasksmanagerCMDPython
 ```
 3. Execute o aplicativo:
 ```
